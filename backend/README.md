@@ -5,3 +5,4 @@
 - [MongoDB](./mongodb/README.md)
 - [SQL](./sql/README.md)
 - [PostgreSQL](./postgresql/README.md)
+- [Sequelize](./sequelize/README.md)
