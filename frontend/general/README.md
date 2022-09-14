@@ -21,3 +21,8 @@
 **Уровень:** продвинутый
 
 **Доступность:** бесплатно
+
+## Статьи
+
+- [What Are Single Page Applications?](https://geekflare.com/single-page-applications/)
+- [Системы сборки](https://doka.guide/tools/bundlers/)

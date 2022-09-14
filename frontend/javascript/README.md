@@ -10,6 +10,14 @@
 
 **Доступность:** бесплатно
 
+## Документация по JS для разработчиков на человеческом языке (*RU*)
+
+**Ссылка:** https://doka.guide/js/
+
+**Уровень:** начинающий
+
+**Доступность:** бесплатно
+
 ## Курс "The Complete JavaScript Course" Jonas Schmedtmann (*ENG*)
 
 Курс с упором на практическую составляющую изучения JavaScript на примере реальных приложений.
@@ -63,3 +71,11 @@
 **Уровень:** продвинутый
 
 **Доступность:** платно
+
+## Статьи
+
+- [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Shadow DOM](https://javascript.info/shadow-dom)
+- [ES Next features](https://www.javascripttutorial.net/es-next/)
+- [Functional Programming Principles in Javascript](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
+- [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
