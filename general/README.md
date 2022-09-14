@@ -5,3 +5,4 @@
 - [HTTP](./http/README.md)
 - [Git](./git/README.md)
 - [TypeScript](./typescript/README.md)
+- [GraphQL](./graphql/README.md)
