@@ -55,6 +55,14 @@
 
 **Доступность:** бесплатно
 
+## Цикл статей "Node.js Under The Hood" (*ENG*)
+
+**Ссылка:** https://dev.to/_staticvoid/node-js-under-the-hood-1-getting-to-know-our-tools-1465
+
+**Уровень:** продвинутый
+
+**Доступность:** бесплатно
+
 ## Книга "Node.js Design Patterns" Mario Casciaro, Luciano Mammino (*ENG*)
 
 **Ссылка:** : https://www.packtpub.com/product/node-js-design-patterns-second-edition/9781785885587
@@ -62,3 +70,7 @@
 **Уровень:** продвинутый
 
 **Доступность:** платно
+
+## Статьи
+
+- [Node.js Module System](https://www.codementor.io/@oparaprosper79/node-js-module-system-15r2ud9v1c)

@@ -4,9 +4,9 @@
 
 Краткое введение в TypeScript.
 
-**Ссылка:** https://www.typescriptlang.org/docs/handbook/intro.html
+**Ссылка:** https://www.typescriptlang.org/assets/typescript-handbook.pdf
 
-**Уровень:** начинающий (только часть "Handbook")
+**Уровень:** начинающий
 
 **Доступность:** бесплатно
 
@@ -27,3 +27,7 @@
 **Уровень:** продвинутый
 
 **Доступность:** бесплатно
+
+## Статьи
+
+- [Настройка проекта Node с помощью Typescript](https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript-ru)
