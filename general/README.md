@@ -8,3 +8,4 @@
 - [TypeScript](./typescript/README.md)
 - [GraphQL](./graphql/README.md)
 - [Архитектура](./architecture/README.md)
+- [Общие практики](./general/README.md)
