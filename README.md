@@ -10,5 +10,5 @@
 
 - [Фронтенд](./frontend/README.md)
 - [Бэкенд](./backend/README.md)
-- [React Native](./react-native/README.md)
 - [Общее](./general/README.md)
+- [React Native](./react-native/README.md)
