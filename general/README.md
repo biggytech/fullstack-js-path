@@ -7,3 +7,4 @@
 - [Git](./git/README.md)
 - [TypeScript](./typescript/README.md)
 - [GraphQL](./graphql/README.md)
+- [Архитектура](./architecture/README.md)
