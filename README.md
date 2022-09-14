@@ -12,3 +12,4 @@
 - [Бэкенд](./backend/README.md)
 - [Общее](./general/README.md)
 - [React Native](./react-native/README.md)
+- [Team Management и лидерство](./team-management/README.md)
