@@ -4,7 +4,7 @@
 
 **Ссылка:** https://www.udemy.com/course/introduction-to-sequelize-orm-w-expressjs-postgres/
 
-**Уровень:** любой
+**Уровень:** начинающий
 
 **Доступность:** платно
 
