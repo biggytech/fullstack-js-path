@@ -1,6 +1,6 @@
 # Архитектура
 
-## Курс "Паттерны проектирования" (*RU*)
+## Курс "Паттерны проектирования" от Refactoring Guru (*RU*)
 
 **Ссылка:** https://refactoring.guru/ru/design-patterns
 
