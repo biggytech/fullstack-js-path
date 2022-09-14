@@ -5,3 +5,4 @@
 - [React](./react/README.md)
 - [Redux](./redux/README.md)
 - [Webpack](./webpack/README.md)
+- [Фронтенд: общее](./general/README.md)
