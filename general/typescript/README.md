@@ -1,5 +1,15 @@
 # TypeScript
 
+## Гайд по TypeScript (*RU*)
+
+Краткий гайд по TypeScript.
+
+**Ссылка:** https://metanit.com/web/typescript/1.1.php
+
+**Уровень:** начинающий
+
+**Доступность:** бесплатно
+
 ## TypeScript Handbook (*ENG*)
 
 Краткое введение в TypeScript.
