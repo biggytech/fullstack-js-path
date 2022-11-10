@@ -31,5 +31,6 @@ React - библиотека для языка JavaScript, которая зна
 
 ## Статьи
 
+- [Before You memo() / о технике предотвращения ре-рендеринга](https://overreacted.io/before-you-memo/)
 - [Оптимизация производительности. Техники для React-приложений](https://youtu.be/1NVjJBrG4gQ)
 - [Тайны Реакта! Как писать самый быстрый и мощный код?](https://youtu.be/NDGINHbYquw)
