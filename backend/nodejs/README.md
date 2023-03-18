@@ -28,15 +28,6 @@
 
 **Доступность:** платно
 
-## Полное руководство по Node.js (*RU*)
-
-**Ссылка:** https://habr.com/ru/company/ruvds/blog/428576/
-
-**Уровень:** продвинутый
-
-**Доступность:** бесплатно
-
-
 ## Курс "Node JS: Advanced Concepts" Stephen Grider (*ENG*)
 
 **Ссылка:** https://www.udemy.com/course/advanced-node-for-developers/
